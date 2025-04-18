@@ -1,0 +1,24 @@
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url("fonst/OpenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: OpenSans-SemiBold;
+    src: url("fonst/OpenSans-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: OpenSans-Medium;
+    src: url("fonst/OpenSans-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: OpenSans-ExtraBold;
+    src: url("fonst/OpenSans-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url("fonst/OpenSans-Bold.ttf") format("truetype");
+}
